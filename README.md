@@ -1,3 +1,8 @@
+
+![image](https://github.com/user-attachments/assets/87b91d75-8680-4651-87b3-755365c4c859)
+
+
+
 # 108 Chanting Counter 📿🧘‍♂️
 
 **108 Chanting Counter** is a simple and intuitive app designed to help you keep track of your chanting practice. Whether you are counting mantras, prayers, affirmations, or any repetitive practice, this app ensures you stay focused and consistent. The number 108 is significant in many spiritual traditions, and this app is tailored to meet the needs of practitioners who follow this sacred number.
